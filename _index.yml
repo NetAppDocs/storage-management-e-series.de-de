@@ -1,10 +1,10 @@
 ---
 indexpage:
   title: E-Series-Management mit BlueXP
-  summary: Entdecken Sie Ihre E-Series-Systeme über die NetApp Konsole, um einen vollständigen
+  summary: Entdecken Sie Ihre E-Series-Systeme über die NetApp Console, um einen vollständigen
     Überblick über die Daten in Ihrer Hybrid-Multicloud zu erhalten.
   keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-management-family
-  lead: Entdecken Sie Ihre E-Series-Systeme über die NetApp Konsole, um einen vollständigen
+  lead: Entdecken Sie Ihre E-Series-Systeme über die NetApp Console, um einen vollständigen
     Überblick über die Daten in Ihrer Hybrid-Multicloud zu erhalten.
   tiles:
   - title: Erste Schritte
@@ -15,17 +15,17 @@ indexpage:
     links:
     - title: Sehen Sie sich Ihre E-Serie-Systeme an
       url: "/task-view-e-series.html"
-    - title: Entfernen eines Systems aus der NetApp Konsole
+    - title: Entfernen eines Systems aus der NetApp Console
       url: "/task-remove-e-series.html"
   - title: Weiterführende Links
     links:
-    - title: E-Series-Dokumentation für die Verwaltung außerhalb der NetApp Konsole
+    - title: E-Series-Dokumentation für die Verwaltung außerhalb der NetApp Console
       url: https://docs.netapp.com/us-en/e-series-family/
   - title: Blogs und Community
     links:
-    - title: NetApp Konsole
+    - title: NetApp Console
       url: https://www.netapp.com/console
-    - title: NetApp Datenservices
+    - title: NetApp Data Services
       url: https://www.netapp.com/data-services/
     - title: NetApp Community
       url: https://community.netapp.com/

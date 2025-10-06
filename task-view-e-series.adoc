@@ -16,7 +16,7 @@ summary: Nachdem Sie Ihre E-Series-Systeme ermittelt haben, können Sie Details 
 [role="lead"]
 Nachdem Sie Ihre E-Series-Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen.
 
-.Erforderliche NetApp Konsolenrolle
+.Erforderliche NetApp Console
 Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Informieren Sie sich über Konsolenzugriffsrollen."^]
 
 .Schritte

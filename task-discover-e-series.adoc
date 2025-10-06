@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: Die NetApp Konsole kann die E-Series-Systeme in Ihrer lokalen Umgebung erkennen.  Durch das Hinzufügen von E-Series-Systemen zur Konsole erhalten Sie eine vollständige Übersicht über die Daten in Ihrer hybriden Multi-Cloud-Umgebung. 
+summary: Die NetApp Console kann die E-Series-Systeme in Ihrer lokalen Umgebung erkennen.  Durch das Hinzufügen von E-Series-Systemen zur Konsole erhalten Sie eine vollständige Übersicht über die Daten in Ihrer hybriden Multi-Cloud-Umgebung. 
 ---
 = Entdecken Sie die Systeme der E-Serie
 :hardbreaks:
@@ -14,10 +14,10 @@ summary: Die NetApp Konsole kann die E-Series-Systeme in Ihrer lokalen Umgebung 
 
 
 [role="lead"]
-Durch das Hinzufügen von E-Series-Systemen zur NetApp -Konsole können Sie Ihre E-Series-Systeme von der Konsole aus verwalten und erhalten einen vollständigen Überblick über Ihre Dateninfrastruktur in Ihrer hybriden Multi-Cloud-Umgebung.
+Durch das Hinzufügen von E-Series-Systemen zur NetApp Console können Sie Ihre E-Series-Systeme von der Konsole aus verwalten und erhalten einen vollständigen Überblick über Ihre Dateninfrastruktur in Ihrer hybriden Multi-Cloud-Umgebung.
 
-.Erforderliche NetApp Konsolenrolle
-Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über die Zugriffsrollen der NetApp Konsole."^]
+.Erforderliche NetApp Console
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Informieren Sie sich über die Zugriffsrollen der NetApp Console ."^]
 
 .Bevor Sie beginnen
 Sie benötigen Folgendes:
