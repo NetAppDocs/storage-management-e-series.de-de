@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: Nachdem Sie Ihre E-Series-Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen. 
+---
+= Sehen Sie sich Ihre E-Serie-Systeme an
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nachdem Sie Ihre E-Series-Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen.
+
+.Erforderliche NetApp Konsolenrolle
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Informieren Sie sich über Konsolenzugriffsrollen."^]
+
+.Schritte
+. Wählen Sie im Navigationsmenü *Speicher > Verwaltung*.
+. Wählen Sie auf der Seite *Systeme* das E-Series-System aus, das Sie anzeigen möchten.
+. Wählen Sie eine der verfügbaren Menüoptionen aus, um weitere Details zu Ihrem E-Series-System anzuzeigen:
++
+** *Übersicht*: Eine detaillierte Ansicht der Kapazitätsverteilung des Systems (zugewiesene, freie und nicht zugewiesene Kapazität), der Anzahl der Volumes, Hosts und mehr.
+** *Volumes*: Details zu den Volumes auf dem System, einschließlich Zuweisung, RAID-Level, zugewiesener Kapazität und mehr.
+** *Hosts*: Details zu den Hosts, die E/A an ein Volume im Speichersystem senden.
+
+
+

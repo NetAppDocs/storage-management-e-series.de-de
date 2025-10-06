@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: Die NetApp Konsole kann die E-Series-Systeme in Ihrer lokalen Umgebung erkennen.  Durch das Hinzufügen von E-Series-Systemen zur Konsole erhalten Sie eine vollständige Übersicht über die Daten in Ihrer hybriden Multi-Cloud-Umgebung. 
+---
+= Entdecken Sie die Systeme der E-Serie
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Durch das Hinzufügen von E-Series-Systemen zur NetApp -Konsole können Sie Ihre E-Series-Systeme von der Konsole aus verwalten und erhalten einen vollständigen Überblick über Ihre Dateninfrastruktur in Ihrer hybriden Multi-Cloud-Umgebung.
+
+.Erforderliche NetApp Konsolenrolle
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über die Zugriffsrollen der NetApp Konsole."^]
+
+.Bevor Sie beginnen
+Sie benötigen Folgendes:
+
+* Ein bei einem Cloud-Anbieter oder bei Ihnen vor Ort installierter NetApp Console Agent mit Netzwerkkonnektivität zum E-Series-System. Sie müssen über die Rolle des Organisationsadministrators verfügen, um einen Konsolenagenten zu installieren.  Wenn Sie nicht wissen, ob Ihre Organisation über einen Konsolenagenten verfügt oder ob Sie einen erstellen müssen, wenden Sie sich an Ihren Konsolenadministrator. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Wenden Sie sich an den Administrator Ihrer Organisation."^]
+* Der Domänenname oder die IP-Adresse des Speichersystem-Controllers.
+* Administratoranmeldeinformationen für das E-Series-System.
+
+
+.Schritte
+. Wählen Sie im Navigationsmenü *Speicher > Verwaltung*.
+. Wählen Sie auf der Seite *Systeme* die Option *Hinzufügen* und dann *Vor Ort* aus.
+. Wählen Sie neben *E-Series* die Option *Discover* aus.
+. Geben Sie auf der Seite „E-Series Cluster Details“ den Domänennamen oder die IP-Adresse des Speichersystem-Controllers und die Administratoranmeldeinformationen für das System ein und wählen Sie dann *Hinzufügen*.
+
